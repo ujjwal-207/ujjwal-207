@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on TS,Nextjs projects<br>👯 I’m looking to collaborate on Projects with impact <br>🤝 I’m looking for help with Ai<br>🌱 I’m currently learning Cloud <br>💬 Lets talk about dance and music <br>⚡ Fun fact I love to learn new things
+🔭 I’m currently working on TS,Nextjs projects<br>👯 I’m looking to collaborate on Projects with impact <br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning Cloud <br>💬 Lets talk about dance and music <br>⚡ Fun fact I love learning and trying new things.
 
 
 ## 🌐 Socials:
